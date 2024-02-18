@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DB405445-D256-4AD5-BD16-AC4A5684C1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Algorithms.API", "src\Sorting.Algorithms.API\Sorting.Algorithms.API.csproj", "{98F46775-2A43-4B9A-AA44-C7AC1B582578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F46775-2A43-4B9A-AA44-C7AC1B582578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F46775-2A43-4B9A-AA44-C7AC1B582578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F46775-2A43-4B9A-AA44-C7AC1B582578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F46775-2A43-4B9A-AA44-C7AC1B582578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{98F46775-2A43-4B9A-AA44-C7AC1B582578} = {DB405445-D256-4AD5-BD16-AC4A5684C1B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4444BD-9007-4D5D-8798-5BF9464141E2}
+	EndGlobalSection
+EndGlobal
